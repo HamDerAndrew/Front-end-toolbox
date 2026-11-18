@@ -9,3 +9,7 @@ My personal toolbox for front-end related work
 [Webutils](https://webutils.io/) - misc webutils in the browser for webdev
 
 [DevSheets](https://www.devsheets.io/) - 'Cheatsheets' for various topics
+
+
+## Skills
+[Modern Web Guidance](https://developer.chrome.com/docs/modern-web-guidance) - Google's Skills for modern web
